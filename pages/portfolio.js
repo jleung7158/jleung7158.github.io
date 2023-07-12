@@ -81,7 +81,7 @@ export default function Portfolio() {
               <div className="grid grid-cols-2 gap-4 items-center mr-4 ml-8 max-w-[90px]">
                 <Image 
                 priority
-                src="/images/react-logo.png"
+                src="/images/portreact-logo.png"
                 height={37}
                 width={37}
                 style={{"width": "90%", "height": "auto"}}
