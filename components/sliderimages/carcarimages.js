@@ -1,14 +1,14 @@
 export const CarCarPics = [
   {
     image:
-    "/images/carcar/customer.png"
+    "/static/images/carcar/customer.png"
   },
   {
     image:
-    "/images/carcar/salesperson.png"
+    "/static/images/carcar/salesperson.png"
   },
   {
     image:
-    "/images/carcar/sales.png"
+    "/static/images/carcar/sales.png"
   },
 ];

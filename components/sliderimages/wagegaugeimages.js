@@ -1,22 +1,22 @@
 export const WageGaugePics = [
   {
     image:
-    "/images/wagegauge/landingscreen.png"
+    "/static/images/wagegauge/landingscreen.png"
   },
   {
     image:
-    "/images/wagegauge/dashboard.png"
+    "/static/images/wagegauge/dashboard.png"
   },
   {
     image:
-    "/images/wagegauge/figure.png"
+    "/static/images/wagegauge/figure.png"
   },
   {
     image:
-    "/images/wagegauge/forumpage.png"
+    "/static/images/wagegauge/forumpage.png"
   },
   {
     image:
-    "/images/wagegauge/newtopic.png"
+    "/static/images/wagegauge/newtopic.png"
   },
 ];
