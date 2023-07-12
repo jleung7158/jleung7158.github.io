@@ -29,7 +29,7 @@ export default function Layout({ children, home }) {
             <div className='flex flex-row mb-8'>
               <Image
                 priority
-                src="/images/profile.png"
+                src="/static/images/profile.png"
                 className={utilStyles.borderCircle}
                 height={148}
                 width={148}

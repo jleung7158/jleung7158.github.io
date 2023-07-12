@@ -4,7 +4,7 @@ import '../styles/underwater.css';
 export default function App({ Component, pageProps }) {
   return (
     <div style={{
-      backgroundImage: `url(/images/bluetilebg.png)`,
+      backgroundImage: `url(/static/images/bluetilebg.png)`,
       width: `100vw`,
       height: `100vh`,
       backgroundPosition: 'bottom -67vh right -10vw',
