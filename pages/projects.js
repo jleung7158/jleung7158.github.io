@@ -7,19 +7,11 @@ import { WageGaugePics } from '../components/sliderimages/wagegaugeimages.js'
 import WageGaugeImageSlider from "../components/wagegaugeimageslider";
 import { CarCarPics } from '../components/sliderimages/carcarimages.js'
 import CarCarImageSlider from "../components/carcarimageslider";
-import { useState } from "react";
 
 export default function Projects() {
   const imageStyle = {
     backgroundcolor: "white"
   }
-  const [imageNumTwo, setImageNumTwo] = useState(1);
-  
-  const sliderImagesTwo = [
-    {url:"/images/carcar/customer.png"},
-    {url:"/images/carcar/salesperson.png"},
-    {url:"/images/carcar/sales.png"},
-  ]
 
   return (
     <Layout>
