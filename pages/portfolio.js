@@ -97,7 +97,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/static/images/tailwind-logo.png"
+                src="/static/images/porttailwind-logo.png"
                 height={37}
                 width={37}
                 alt="TailwindCSS"
@@ -105,7 +105,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/static/images/bootstrap-logo.png"
+                src="/static/images/portbootstrap-logo.png"
                 height={37}
                 width={37}
                 alt="BootstrapCSS"
@@ -123,7 +123,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/static/images/rtk-logo.png"
+                src="/static/images/portrtk-logo.png"
                 height={37}
                 width={37}
                 alt="Redux Toolkit Query"

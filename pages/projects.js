@@ -67,7 +67,7 @@ export default function Projects() {
           />
           <Image 
           priority
-          src="/static/images/tailwind-logo.png"
+          src="/static/images/porttailwind-logo.png"
           height={37}
           width={37}
           alt="TailwindCSS"
