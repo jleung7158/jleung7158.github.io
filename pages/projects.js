@@ -30,9 +30,9 @@ export default function Projects() {
             <Image 
             priority
             className="mx-4"
-            src="/images/wagegauge/logo512.png"
-            height={38}
-            width={38}
+            src="/static/images/wagegauge/logo512.png"
+            height={40}
+            width={40}
             alt="wagegauge"
             />
           </a>
@@ -43,7 +43,7 @@ export default function Projects() {
         <div className="flex flex-row justify-evenly">
           <Image 
           priority
-          src="/images/fastapi-logo.png"
+          src="/static/images/fastapi-logo.png"
           height={37}
           width={37}
           alt="fastAPI"
@@ -51,7 +51,7 @@ export default function Projects() {
           />
           <Image 
           priority
-          src="/images/react-logo.png"
+          src="/static/images/portreact-logo.png"
           height={37}
           width={40}
           alt="React"
@@ -59,7 +59,7 @@ export default function Projects() {
           />
           <Image 
           priority
-          src="/images/redux-logo.png"
+          src="/static/images/redux-logo.png"
           height={37}
           width={37}
           alt="Redux Toolkit"
@@ -67,7 +67,7 @@ export default function Projects() {
           />
           <Image 
           priority
-          src="/images/tailwind-logo.png"
+          src="/static/images/tailwind-logo.png"
           height={37}
           width={37}
           alt="TailwindCSS"
@@ -85,7 +85,7 @@ export default function Projects() {
             <Image 
             priority
             className="mx-4"
-            src="/images/gitlab-logo.png"
+            src="/static/images/gitlab-logo.png"
             height={38}
             width={50}
             alt="carcar"
@@ -98,7 +98,7 @@ export default function Projects() {
         <div className="flex flex-row justify-evenly">
           <Image 
           priority
-          src="/images/django-logo2.png"
+          src="/static/images/django-logo2.png"
           height={32}
           width={40}
           alt="django"
@@ -106,7 +106,7 @@ export default function Projects() {
           />
           <Image 
           priority
-          src="/images/react-logo.png"
+          src="/static/images/portreact-logo.png"
           height={37}
           width={37}
           alt="React"
@@ -114,7 +114,7 @@ export default function Projects() {
           />
           <Image 
           priority
-          src="/images/rabbitmq-logo.png"
+          src="/static/images/rabbitmq-logo.png"
           height={37}
           width={32}
           alt="rabbitMQ"
@@ -122,7 +122,7 @@ export default function Projects() {
           />
           <Image 
           priority
-          src="/images/Bootstrap-logo.png"
+          src="/static/images/Bootstrap-logo.png"
           height={28}
           width={45}
           alt="Bootstrap"

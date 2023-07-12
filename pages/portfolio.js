@@ -40,7 +40,7 @@ export default function Portfolio() {
                 <Image 
                 priority
                 className=""
-                src="/images/python-logo.png"
+                src="/static/images/python-logo.png"
                 height={37}
                 width={37}
                 alt="python"
@@ -48,7 +48,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/javascript-logo.png"
+                src="/static/images/javascript-logo.png"
                 height={39}
                 width={37}
                 style={{"width": "90%", "height": "auto"}}
@@ -56,14 +56,14 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/html-logo2.png"
+                src="/static/images/html-logo2.png"
                 height={37}
                 width={37}
                 alt="html5"
                 />
                 <Image 
                 priority
-                src="/images/css-logo2.png"
+                src="/static/images/css-logo2.png"
                 height={42}
                 width={42}
                 alt="css3"
@@ -71,7 +71,7 @@ export default function Portfolio() {
                 <Image 
                 priority
                 className=""
-                src="/images/sql-logo2.png"
+                src="/static/images/sql-logo2.png"
                 height={37}
                 width={37}
                 alt="sql"
@@ -81,7 +81,7 @@ export default function Portfolio() {
               <div className="grid grid-cols-2 gap-4 items-center mr-4 ml-8 max-w-[90px]">
                 <Image 
                 priority
-                src="/images/portreact-logo.png"
+                src="/static/images/portreact-logo.png"
                 height={37}
                 width={37}
                 style={{"width": "90%", "height": "auto"}}
@@ -89,7 +89,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/redux-logo.png"
+                src="/static/images/redux-logo.png"
                 height={37}
                 width={37}
                 alt="Redux Toolkit"
@@ -97,7 +97,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/tailwind-logo.png"
+                src="/static/images/tailwind-logo.png"
                 height={37}
                 width={37}
                 alt="TailwindCSS"
@@ -105,7 +105,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/bootstrap-logo.png"
+                src="/static/images/bootstrap-logo.png"
                 height={37}
                 width={37}
                 alt="BootstrapCSS"
@@ -115,7 +115,7 @@ export default function Portfolio() {
               <div className="grid grid-cols-2 gap-4 items-center mr-4 ml-8 max-w-[90px]">
                 <Image 
                 priority
-                src="/images/django-logo2.png"
+                src="/static/images/django-logo2.png"
                 height={42}
                 width={42}
                 alt="Django4"
@@ -123,7 +123,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/rtk-logo.png"
+                src="/static/images/rtk-logo.png"
                 height={37}
                 width={37}
                 alt="Redux Toolkit Query"
@@ -131,7 +131,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/Postgresql-icon.png"
+                src="/static/images/Postgresql-icon.png"
                 height={37}
                 width={37}
                 alt="PostgreSQL"
@@ -139,7 +139,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/fastapi-logo.png"
+                src="/static/images/fastapi-logo.png"
                 height={37}
                 width={37}
                 alt="fastAPI"
@@ -148,7 +148,7 @@ export default function Portfolio() {
                 <Image 
                 priority
                 className="ml-2"
-                src="/images/MongoDB_Logo.png"
+                src="/static/images/MongoDB_Logo.png"
                 height={19}
                 width={19}
                 alt="MongoDB"
@@ -157,7 +157,7 @@ export default function Portfolio() {
                 <Image 
                 priority
                 className="ml-2"
-                src="/images/rabbitmq-logo.png"
+                src="/static/images/rabbitmq-logo.png"
                 height={28}
                 width={28}
                 alt="rabbitMQ"
@@ -167,7 +167,7 @@ export default function Portfolio() {
               <div className="grid grid-cols-2 gap-4 mr-4 ml-8 justify-center items-center max-w-[90px]">
                 <Image 
                 priority
-                src="/images/vscode.png"
+                src="/static/images/vscode.png"
                 height={37}
                 width={37}
                 alt="VS Code"
@@ -176,7 +176,7 @@ export default function Portfolio() {
                 <Image 
                 priority
                 className="ml-1"
-                src="/images/Docker-logo.png"
+                src="/static/images/Docker-logo.png"
                 height={39}
                 width={39}
                 alt="Docker"
@@ -184,7 +184,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/nodejs2-logo.png"
+                src="/static/images/nodejs2-logo.png"
                 height={37}
                 width={37}
                 alt="nodeJS"
@@ -192,7 +192,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/git-logo2.png"
+                src="/static/images/git-logo2.png"
                 height={37}
                 width={37}
                 alt="git"
@@ -200,7 +200,7 @@ export default function Portfolio() {
                 />
                 <Image 
                 priority
-                src="/images/npm-logo.png"
+                src="/static/images/npm-logo.png"
                 height={37}
                 width={37}
                 alt="npm"
@@ -220,7 +220,7 @@ export default function Portfolio() {
             <Image 
             priority
             className="ml-1"
-            src="/images/nextjs-logo2.png"
+            src="/static/images/nextjs-logo2.png"
             height={37}
             width={37}
             alt="NextJS"
@@ -229,7 +229,7 @@ export default function Portfolio() {
             <Image 
             priority
             className="ml-9"
-            src="/images/expressjs-logo.png"
+            src="/static/images/expressjs-logo.png"
             height={37}
             width={37}
             alt="Express JS"
@@ -238,7 +238,7 @@ export default function Portfolio() {
             <Image 
             priority
             className="ml-7"
-            src="/images/typescript-logo.png"
+            src="/static/images/typescript-logo.png"
             height={37}
             width={52}
             alt="Typescript"

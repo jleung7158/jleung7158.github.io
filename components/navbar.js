@@ -20,7 +20,7 @@ export default function NavBar() {
             <Image 
             priority
             className="mx-4"
-            src="/images/linkedin-logo.png"
+            src="/static/images/linkedin-logo.png"
             height={32}
             width={32}
             alt="linkedin"
@@ -30,7 +30,7 @@ export default function NavBar() {
             <Image 
             priority
             className="mr-4"
-            src="/images/gitlab-logo.png"
+            src="/static/images/gitlab-logo.png"
             height={45}
             width={45}
             alt="gitlab"
@@ -40,7 +40,7 @@ export default function NavBar() {
             <Image 
             priority
             className="mr-4"
-            src="/images/github-mark-white.png"
+            src="/static/images/github-mark-white.png"
             height={32}
             width={32}
             style={{"width": "50%", "height": "auto"}}
