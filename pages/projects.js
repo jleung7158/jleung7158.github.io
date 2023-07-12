@@ -122,7 +122,7 @@ export default function Projects() {
           />
           <Image 
           priority
-          src="/static/images/Bootstrap-logo.png"
+          src="/static/images/portbootstrap-logo.png"
           height={28}
           width={45}
           alt="Bootstrap"
